@@ -1,7 +1,7 @@
 [package]
 name = "bevy_lit"
 version = "0.8.0"
-edition = "2021"
+edition = "2024"
 categories = ["graphics", "game-development", "game-engines", "rendering"]
 description = "A lighting 2d library for Bevy"
 authors = ["Miguel Albernaz"]
